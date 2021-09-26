@@ -34,7 +34,6 @@ public class MyMapNode<K, V> implements INodeIF<K> {
 
 		this.value = value;
 	}
-}
 	@Override
 	public String toString() {
 		StringBuilder myMapNodeString = new StringBuilder();
